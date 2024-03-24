@@ -80,7 +80,7 @@ loop unfolding) и непосредственный вывод (direct inference
 изображений, 6 участников, 25-19 сканирвоанных частей тела у пациента). С DeepMB, клинические МСОТ могут предоставить отклик в высоком качестве в течении визуализации в реальном времени и таким образом облегчает 
 продвинутые изображения динамической визуализации.
 
-> ![](https://sun9-28.userapi.com/c237231/u138836881/docs/d30/e7ec47891042/ezgif-5-f0bd9115e8.gif?extra=PNWH_NRyUs31i7qRBxWJ_kJzXIBoztmhgofIsIpiYIWeULMDUmRP9hyC88eBtgz83-WknJM3O2gaYpIdjFK3kcpcQaaZ_dycr1Xt8ta_GgAD2l9quSwfe2vwI-9uvUsC9tzUzWQQLcIol6UgNF5e8Jymtg)  
+> ![](https://psv4.userapi.com/c237231/u138836881/docs/d30/7b4b3e4dae99/ezgif-5-f0bd9115e8.gif?extra=NFXK-3Kgvb2kw3WqPP-bPOPfMpHFzlImY_fcPhtG1KEq-B6WMVGv2TQY11fDTHYuT5uXHKQNFQCfSB2G8J9xesIl5AM4GfdAIQ6789-XwhxMNgHng5z4vJSTcsFQLG4x2CfXW5aul7ho5voaQ9wH-bFehQ)  
 > <em> Фрирен спит </em>
 
 #### 2. Результаты
